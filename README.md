@@ -1,12 +1,17 @@
-# shipping-teams
+Address:
+Office 402, Business Point Building, Deira, Dubai, United Arab Emirates
 
-AMALI MARINE SERVICES LLC
-Office 402, Business Point Building
-Deira
-Dubai, United Arab Emirates
-P.O. Box: 183577
-Tel: +971 4456 94 69
-MOB: +971 56 211 3340
-Web: www.amalimarine.com
+Phone:
++971 4456 94 69
 
+Mobile:
++971 56 211 3340
 
+Email:
+ops@amalimarine.com
+
+Services:
+- SHIP MANAGEMENT
+- SHIP BROKER
+- SHIP CHARTER
+- SHIP CHANDLER
