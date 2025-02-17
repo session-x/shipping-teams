@@ -1,17 +1,23 @@
-Address:
-Office 402, Business Point Building, Deira, Dubai, United Arab Emirates
+Ali Tartousi   https://www.linkedin.com/in/ali-tartousi-0b776a266/
+2nd degree connection  
 
-Phone:
-+971 4456 94 69
+AMALI MARINE SERVICES LLC  
+Ship Owner ⚓️  
 
-Mobile:
-+971 56 211 3340
+Address:  
+Office 402, Business Point Building, Al Khabaisi Area, Port Saeed, Deira, Dubai, United Arab Emirates  
 
-Email:
-ops@amalimarine.com
+Phone:  
++971 4456 94 69  
 
-Services:
-- SHIP MANAGEMENT
-- SHIP BROKER
-- SHIP CHARTER
-- SHIP CHANDLER
+Mobile:  
++971 56 211 3340  
+
+Email:  
+ops@amalimarine.com  
+
+Services:  
+- SHIP MANAGEMENT  
+- SHIP BROKER  
+- SHIP CHARTER  
+- SHIP CHANDLER  
